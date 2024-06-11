@@ -9,7 +9,7 @@ set shiftwidth=4
 set wildmenu
 set hidden
 
-set wildignore=*.exe,*.dll,*.pbb
+set wildignore=*.exe,*.dll,*.pbb,*.out,*.bin
 
 set guifont=Lucida_Console:h25
 
