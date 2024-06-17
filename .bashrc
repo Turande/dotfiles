@@ -114,9 +114,9 @@ shopt -s histappend
 #
 # # aliases
 # # my own aliases on a file
-# # see .bash_aliases
-if [ -e $HOME/dotfiles/.bash_aliases ] ; then
-	source $HOME/dotfiles/.bash_aliases
+# # see aliasrc
+if [ -e $HOME/dotfiles/aliasrc ] ; then
+	source $HOME/dotfiles/aliasrc
 fi
 
 #
